@@ -14,7 +14,7 @@ An small icon will be showed it in top of your web, exactly on the top left. Onc
 
 # How to dev
 
-It is based on [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) module system, exactly it uses require.js. Just edit embedQrCode.js and when you done it could be minimized by:
+It is based on [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) module system, exactly it uses require.js. Just edit embedQrCode.js and when you are done, it could be minimized by:
 
 ```
 # r.js -o minimize.js
