@@ -19,4 +19,4 @@ It is based on [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) module system,
 ```
 # r.js -o minimize.js
 ```
-The minimized script would create on the dist/ folder.
+The minimized script would be created on the dist/ folder.
